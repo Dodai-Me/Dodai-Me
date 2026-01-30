@@ -5,7 +5,7 @@ I'm Dodai Ukoko
 I'm a **Flutter developer** and a **Software Engineering student** passionate about building high-quality mobile apps and learning cutting-edge technologies.
 
 - 🎓 Currently studying: Software Engineering
-- 📱 Tools I use: Flutter, Dart, Git, GitHub, Firebase, Hive Flutter
+- 📱 Tools I use: Flutter, Dart, Git, GitHub, Firebase, Hive Flutter, Spring Boot
 
 ## 🛠️ Tech Stack
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
@@ -14,6 +14,8 @@ I'm a **Flutter developer** and a **Software Engineering student** passionate ab
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 ![hive_flutter](https://img.shields.io/badge/hive__flutter-FFC107?logo=hive&logoColor=white)
+![spring_boot](https://img.shields.io/badge/spring__boot-6DB33F?logo=springboot&logoColor=white)
+
 
 
 ## 📫 Let's Connect
