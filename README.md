@@ -34,7 +34,7 @@ I'm a **Flutter/Spring Boot developer** and a **Software Engineering student** p
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dodai-ukoko-a16396323/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ukokododai69@gmail.com)
-[X](https://x.com/DodaiMee)
+[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/DodaiMee)
 
 
 ---
