@@ -7,6 +7,19 @@ I'm a **Flutter/Spring Boot developer** and a **Software Engineering student** p
 - 🎓 Currently studying: Software Engineering
 - 📱 Tools I use: Flutter, Dart, Git, GitHub, Firebase, Hive Flutter, Spring Boot
 
+## 💼 Work Experience
+
+**Backend Software Engineering Intern** | *Digicore Ltd.* 
+* Designed and maintained backend services and RESTful APIs using **Java** and **Spring Boot**.
+* Worked within a microservices architecture, managing data persistence with **JPA specifications** and transaction management.
+* Ensured code quality and reliability by implementing unit tests using **JUnit** and **Mockito**.
+* Collaborated on system architecture and documented technical engineering workflows.
+
+**Flutter Developer** | *Pinpoint*
+* Designed web pages using **Dart** and**Flutter**.
+* Implemented Google Mpas service with **Firebase**.
+* Collaborated effectively with team members and leadership to ensure seamless project execution in a remote environment.
+
 ## 🛠️ Tech Stack
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
