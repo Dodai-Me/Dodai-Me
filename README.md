@@ -16,9 +16,9 @@ I'm a **Flutter/Spring Boot developer** and a **Software Engineering student** p
 * Collaborated on system architecture and documented technical engineering workflows.
 
 **Flutter Developer** | *Pinpoint*
-* Designed web pages using **Dart** and**Flutter**.
-* Implemented Google Mpas service with **Firebase**.
-* Collaborated effectively with team members and leadership to ensure seamless project execution in a remote environment.
+* Engineered highly responsive web applications utilizing Dart and Flutter to deliver intuitive user experiences.
+* Integrated the Google Maps API alongside Firebase to engineer seamless, real-time location-based services.
+* Partnered with cross-functional teams and leadership to drive end-to-end project execution within a remote environment.
 
 ## 🛠️ Tech Stack
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
