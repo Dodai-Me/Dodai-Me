@@ -2,7 +2,7 @@
 
 I'm Dodai Ukoko
 
-I'm a **Flutter/Spring Boot developer** and a **Software Engineering student** passionate about building high-quality mobile apps and learning cutting-edge technologies.
+I'm a **Flutter/Spring Boot developer** and a **final year Software Engineering student** passionate about building high-quality mobile apps and learning cutting-edge technologies.
 
 - 🎓 Currently studying: Software Engineering
 - 📱 Tools I use: Flutter, Dart, Git, GitHub, Firebase, Hive Flutter, Spring Boot
